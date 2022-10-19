@@ -1,6 +1,5 @@
 // CHIEDI IL NOME
 const firstName=prompt("Scrivi il tuo nome");
-
 // CHIEDI IL COGNOME
 const lastName=prompt("Scrivi il tuo cognome");
 // CHIEDI IL COLORE PREFERITO

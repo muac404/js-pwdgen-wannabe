@@ -1,3 +1,26 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+h1{
+    text-align: center;
+    color: green;
+}
+
+h2{
+    text-align: center;
+
+}
+
+.icon{
+    display: flex;
+    text-align: center;
+    font-size: 32px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.icon i{
+    padding-right: 10px;
+}
